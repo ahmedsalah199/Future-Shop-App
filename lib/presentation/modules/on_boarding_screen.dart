@@ -81,7 +81,6 @@ class _OnBoardingScreenState extends State<OnBoardingScreen> {
                           },
                           child: const Text('Skip',
                               style: TextStyle(
-                                  fontFamily: "LibreBaskerville",
                                   fontSize: 24,
                                   color: Colors.white,
                                   fontWeight: FontWeight.bold))),
@@ -109,7 +108,6 @@ class _OnBoardingScreenState extends State<OnBoardingScreen> {
                           },
                           child: const Text('Next',
                               style: TextStyle(
-                                  fontFamily: "LibreBaskerville",
                                   fontSize: 24,
                                   color: Colors.white,
                                   fontWeight: FontWeight.bold))),
